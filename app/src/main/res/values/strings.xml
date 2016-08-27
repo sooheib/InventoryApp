@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Inventory App</string>
+    <string name="main_inventory">Inventory</string>
+    <string name="main_button_add_product">Add Product</string>
+    <string name="productHint">Enter Product Name</string>
+    <string name="productPriceHint">Enter Product Price</string>
+    <string name="productQuantityHint">Enter Product Quantity</string>
+    <string name="price">Price: </string>
+    <string name="order_quantities">Quantity</string>
+    <string name="available">Available: </string>
+    <string name="name">Name:</string>
+    <string name="add_a_new_item">Add a New Item</string>
+    <string name="reorder">Reorder</string>
+    <string name="nametitle">Name:</string>
+    <string name="pricetitle">Price: </string>
+    <string name="availabletitle">Available:</string>
+    <string name="sale">Sale</string>
+    <string name="inventory">INVENTORY</string>
+    <string name="delete_permanently">Delete Permanently</string>
+    <string name="price_of_the_product">Price of the Product</string>
+    <string name="avaialable_quantities_of_the_product">Available Quantities of the Product</string>
+    <string name="submit">Submit</string>
+</resources>
